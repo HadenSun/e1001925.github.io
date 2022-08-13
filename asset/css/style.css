@@ -109,7 +109,11 @@ svg {
     transition: all 0.5 ease;
 }
 
-.play {
+.play,
+.power,
+.start,
+.stop,
+.download {
     padding: 1rem 2rem;
     font-size: 1.5rem;
     background: rgb(58, 57, 57);
